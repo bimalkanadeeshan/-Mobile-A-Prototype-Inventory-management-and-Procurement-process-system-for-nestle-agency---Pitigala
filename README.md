@@ -1,0 +1,2 @@
+# -Mobile-A-Prototype-Inventory-management-and-Procurement-process-system-for-nestle-agency---Pitigala
+❖ Sales Representative - Activities ● Only the authorized sales representative can access to the system. ● System provide navigation to existing shops that buy products. ● Sales representative can generate a bill for product items that buy. ● Sales representative can manage credit information of each shop. ❖ Technology ● Android ● Firebase
