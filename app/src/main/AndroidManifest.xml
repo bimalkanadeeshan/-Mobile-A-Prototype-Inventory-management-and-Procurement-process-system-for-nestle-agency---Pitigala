@@ -16,6 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".NavigationDrawer" />
+        <activity android:name=".HomePage" />
+        <activity android:name=".BillGenerate" />
+        <activity android:name=".CreditManage" />
+        <activity android:name=".RouteNavigation" />
+        <activity android:name=".ShopList" />
+        <activity android:name=".ShopDetails"></activity>
     </application>
 
 </manifest>
